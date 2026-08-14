@@ -4291,7 +4291,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 83.5152 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -4528,7 +4528,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_HC49-U_Vertical"
 			(at 176.53 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -4608,7 +4608,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 161.29 73.3552 0)
 			(hide yes)
 			(show_name no)
@@ -4690,7 +4690,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 			(at 231.14 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -4863,7 +4863,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 			(at 231.14 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -4933,7 +4933,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "201c2f66-3c4b-428f-a01b-98882a346bea")
 		(property "Reference" "#PWR011"
 			(at 180.34 50.8 0)
@@ -5112,7 +5111,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 182.118 50.8 90)
 			(hide yes)
 			(show_name no)
@@ -5272,7 +5271,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
 			(at 231.14 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -5609,7 +5608,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 198.4248 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -5689,7 +5688,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
 			(at 234.95 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -5781,7 +5780,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_BarrelJack:BarrelJack_CUI_PJ-102AH_Horizontal"
 			(at 59.69 63.246 0)
 			(hide yes)
 			(show_name no)
@@ -5945,7 +5944,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
 			(at 108.9152 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -6027,7 +6026,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
 			(at 70.8152 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -6184,7 +6183,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 181.61 77.7748 0)
 			(hide yes)
 			(show_name no)
@@ -6341,7 +6340,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H5mm"
 			(at 170.18 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -6657,7 +6656,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 130.302 63.5 90)
 			(hide yes)
 			(show_name no)
@@ -6738,7 +6737,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:TQFP-32_7x7mm_P0.8mm"
+		(property "Footprint" "Package_DIP:DIP-28_W7.62mm"
 			(at 199.39 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -6911,7 +6910,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 120.3452 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -7068,7 +7067,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 161.29 65.7352 0)
 			(hide yes)
 			(show_name no)
@@ -7150,7 +7149,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 132.08 71.12 0)
 			(hide yes)
 			(show_name no)
